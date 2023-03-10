@@ -28,10 +28,10 @@ Hasher is a Hash Cracker that has supported more than 7 types of hashes
 # [ Installation ]
 ```
 $ apt update upgrade
-$ apt install python2 git
-$ git clone https://github.com/ciku370/hasher
+$ apt install python3 git
+$ git clone https://github.com/R3DHULK/hasher
 $ cd hasher
-$ python2 hash.py
+$ python3 hash.py
 ```
 # Screenshot
 <img src=".images/hasher.png" />
